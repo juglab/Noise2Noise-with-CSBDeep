@@ -3,7 +3,7 @@
 A small example on how to use [CSBDeep](http://csbdeep.bioimagecomputing.com/) to train a network with the [Noise2Noise](https://arxiv.org/abs/1803.04189) training scheme.
 
 ## Setup
-1. Install [miniconda]
+1. Install [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 2. Make sure your GPU supports CUDA 10.
 3. Create a conda environment: `conda create -n astro python=3.7`
 4. Activate the environment: `source activate astro`
